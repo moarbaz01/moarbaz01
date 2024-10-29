@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer specializing
 
 - **Web Development**: MERN Stack, RESTful APIs, role-based access, and more.
 - **Mobile Development**: React Native with Appwrite for backend management.
-- **Freelancing**: Building websites, digital marketing services, and more through my website [Color Space](https://your-colorspace-link).
+- **Freelancing**: Building websites, digital marketing services, and more through my website [UI Forward](https://mybusinessweb.vercel.app).
 - **Teaching**: I love helping others learn development, especially in Hindi.
 
 ### Tech Stack
@@ -29,12 +29,11 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer specializing
 
 - **Social Media Platform**: A feature-rich platform with real-time messaging using WebRTC and WebSockets.
 - **E-commerce Store**: Built with the MERN stack, offering a seamless user experience with responsive design.
-- **Freelance Website**: [Color Space](https://your-colorspace-link) - Offering services in website creation, digital marketing, and more.
 
 ### Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **LinkedIn**: [linkedin.com/in/your-profile](www.linkedin.com/in/mohammed-arbaz-75998a268)
+- **Twitter**: [@your-twitter-handle](https://twitter.com/mo_arbaz01)
 
 I’m always open to connect with fellow developers, collaborate on projects, or just chat about the latest in tech!
 
