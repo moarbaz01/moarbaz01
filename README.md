@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer specializing
 
 ### Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/your-profile](www.linkedin.com/in/mohammed-arbaz-75998a268)
-- **Twitter**: [@your-twitter-handle](https://twitter.com/mo_arbaz01)
+- **LinkedIn**: [linkedin.com/in/Mohammed_Arbaz](www.linkedin.com/in/mohammed-arbaz-75998a268)
+- **Twitter**: [@mo__arbaz01](https://twitter.com/mo_arbaz01)
 
 I’m always open to connect with fellow developers, collaborate on projects, or just chat about the latest in tech!
 
