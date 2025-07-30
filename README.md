@@ -39,6 +39,11 @@ I'm a passionate **Full Stack Developer** with a strong focus on **MERN Stack**,
 </td>
 </tr>
 </table>
+<br/>
+<p >
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moarbaz01&theme=react" width="90%" />
+</p>
+
 
 ---
 
@@ -70,15 +75,6 @@ I'm a passionate **Full Stack Developer** with a strong focus on **MERN Stack**,
     </td>
   </tr>
 </table>
-
-
----
-
-
-
-<p >
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moarbaz01&theme=react" width="90%" />
-</p>
 
 ---
 
