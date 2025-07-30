@@ -27,6 +27,21 @@ I'm a passionate **Full Stack Developer** with a strong focus on **MERN Stack**,
 
 ---
 
+### 📊 GitHub Analytics
+
+<table align="center">
+  <tr>
+    <td>
+  <img src="https://github-readme-stats.vercel.app/api?username=moarbaz01&show_icons=true&theme=react" height="170px"/>
+</td>
+    <td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moarbaz01&layout=compact&theme=react" height="170px"/>
+</td>
+</tr>
+</table>
+
+---
+
 ### 📌 Featured Projects
 
 <table align="center">
@@ -58,13 +73,6 @@ I'm a passionate **Full Stack Developer** with a strong focus on **MERN Stack**,
 
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moarbaz01&show_icons=true&theme=react" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moarbaz01&layout=compact&theme=react" height="170px"/>
-</p>
 
 
 
