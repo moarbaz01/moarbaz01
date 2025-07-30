@@ -29,22 +29,26 @@ I'm a passionate **Full Stack Developer** with a strong focus on **MERN Stack**,
 
 ### 📌 Featured Projects
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td>
   <a href="https://github.com/moarbaz01/likeflames" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moarbaz01&repo=likeflames&theme=react" />
   </a>
-  <p>&nbsp;</p>
-  <a href="https://github.com/moarbaz01/stylevow_client" target="_blank">
+</td>
+ <td>
+ <a href="https://github.com/moarbaz01/stylevow_client" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moarbaz01&repo=stylevow_client&theme=react" />
-  </a>
-  <p>&nbsp;</p>
-  <a href="https://github.com/moarbaz01/social_networking" target="_blank">
+  </a></td>
+ <td>
+ <a href="https://github.com/moarbaz01/social_networking" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moarbaz01&repo=social_networking&theme=react" />
-  </a>
-  <p>&nbsp;</p>
-  <a href="https://github.com/moarbaz01/leadfinder" target="_blank">
+  </a></td>
+ <td>
+ <a href="https://github.com/moarbaz01/leadfinder" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moarbaz01&repo=leadfinder&theme=react" />
-  </a>
+  </a></td>
+  </tr>
 </p>
 
 ---
