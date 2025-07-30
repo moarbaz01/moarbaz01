@@ -10,7 +10,7 @@
 
 - 🖥️ **Web Development**: Full MERN stack with authentication, dashboards, and scalable APIs
 - 📲 **Mobile Apps**: Building apps with **React Native** + Appwrite backend
-- 💻 **Freelancing**: Custom sites & SEO at [UI Forward](https://mybusinessweb.vercel.app)
+- 💻 **Freelancing**: Custom sites & SEO at [UI Forward](https://ui4ward.com)
 
 ---
 
@@ -82,7 +82,7 @@
   <a href="https://twitter.com/mo__arbaz01">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://mybusinessweb.vercel.app">
+  <a href="https://ui4ward.com">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
