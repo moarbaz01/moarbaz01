@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Full+Stack+Developer;MERN+Stack+Specialist;React+Native+Explorer;&center=true&width=500&height=50">
 </p>
 
+---
+
 ### 💼 What I Do
 
 - 🖥️ **Web Development**: Full MERN stack with authentication, dashboards, and scalable APIs
