@@ -29,7 +29,7 @@ I'm a passionate **Full Stack Developer** with a strong focus on **MERN Stack**,
 
 ### 📊 GitHub Analytics
 
-<table align="center">
+<table >
   <tr>
     <td>
   <img src="https://github-readme-stats.vercel.app/api?username=moarbaz01&show_icons=true&theme=react" height="170px"/>
@@ -44,7 +44,7 @@ I'm a passionate **Full Stack Developer** with a strong focus on **MERN Stack**,
 
 ### 📌 Featured Projects
 
-<table align="center">
+<table >
   <tr>
     <td>
       <a href="https://github.com/moarbaz01/likeflames" target="_blank">
@@ -76,7 +76,7 @@ I'm a passionate **Full Stack Developer** with a strong focus on **MERN Stack**,
 
 
 
-<p align="center">
+<p >
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moarbaz01&theme=react" width="90%" />
 </p>
 
@@ -84,7 +84,7 @@ I'm a passionate **Full Stack Developer** with a strong focus on **MERN Stack**,
 
 ### 🤝 Connect With Me
 
-<p align="center">
+<p >
   <a href="https://linkedin.com/in/mohammed-arbaz-75998a268">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
